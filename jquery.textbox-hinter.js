@@ -5,7 +5,7 @@
  * Released under the MIT License.
  *
  * @author Aakash Chakravarthy
- * @author Halil Özgür (Modifications/Enhancements) 
+ * @author Halil Ã–zgÃ¼r (Modifications/Enhancements) 
  */
 (function($){
     $.fn.tbHinter = function(options) {
