@@ -19,7 +19,7 @@
 
     function defaultAction(el)
     {
-        if(el.val() == options.text){
+        if(el.val() == options.text && el.hasClass(options["class"]){
             el.val('');
             el.removeClass(options["class"]);
         }
